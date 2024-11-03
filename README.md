@@ -1,10 +1,7 @@
-﻿@[TOC](Bread3D-Measure)
 
 # Welcome use Bread3D-Measure
 
 Welcome to Bread3D-Measure, we will tell you how to use each module of the application, as well as the environment configuration of the software.
-
-[video(video-JIgXLEnd-1730605452229)(type-csdn)(url-https://live.csdn.net/v/embed/432342)(image-https://v-blog.csdnimg.cn/asset/b7f152674850ba027a3ce38033382e00/cover/Cover0.jpg)(title-Utilize demonstration)]
 
 ## Introduction of each module
 The modules are linear, and the subsequent module can be executed only upon the completion of the operations of the previous module. Once you have accomplished the entire (6 steps) process, you can return to the first module and deal with the new file.
