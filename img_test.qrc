@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="all">
+    <file>img_show/icon2.jpg</file>
+    <file>img_show/icon1.jpg</file>
+  </qresource>
+</RCC>
