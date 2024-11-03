@@ -1,0 +1,12 @@
+open3d==0.11.2
+opencv==4.6.0
+opencv-python==4.10.0.84
+shapely==2.0.1
+pillow==10.3.0
+pandas==2.0.3
+numpy==1.24.3
+pyqt5==5.15.9 
+pyqt5-plugins==5.15.9.2.3 
+pyqt5-qt5==5.15.2 
+pyqt5-sip==12.13.0    
+pyqt5-tools==5.15.9.3.3
